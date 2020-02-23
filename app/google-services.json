@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706279771327",
+    "firebase_url": "https://alloy-vpn.firebaseio.com",
+    "project_id": "alloy-vpn",
+    "storage_bucket": "alloy-vpn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706279771327:android:0eb0c5626432d604134a0a",
+        "android_client_info": {
+          "package_name": "com.buzz.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706279771327-2vneigbrvio9e0fgppc9252uaen7h95t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGv0_IwJUs9ArFfLGMaQVNaw0ZyIVdEr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706279771327-2vneigbrvio9e0fgppc9252uaen7h95t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
